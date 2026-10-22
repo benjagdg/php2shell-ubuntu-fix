@@ -64,7 +64,7 @@ PHP2Shell son dos vulnerabilidades críticas (CVSS v4.0 9.2) en el núcleo de PH
 
 ```bash
 # Descarga (ajusta la URL a este repositorio)
-curl -fsSLO https://raw.githubusercontent.com/<usuario>/<repo>/main/php2shell-ubuntu.sh
+curl -fsSLO https://raw.githubusercontent.com/benjagdg/php2shell-ubuntu-fix/main/php2shell-ubuntu.sh
 
 # Revísalo antes de ejecutarlo como root
 less php2shell-ubuntu.sh
